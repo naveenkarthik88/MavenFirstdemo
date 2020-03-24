@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Welcome to UT</h2>
+<h2>Welcome to SIT</h2>
 </body>
 </html>
